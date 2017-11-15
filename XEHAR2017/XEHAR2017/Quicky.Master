@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Quicky.master.cs" Inherits="Quicky.Quicky" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="Title" runat="server"></asp:ContentPlaceHolder></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="css/quick.css" />
+     
+</head>
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+
+
+</script>
+<body><form runat="server" name='master' id="master">
+     <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true">
+</asp:ScriptManager>
+    <header>
+        <a href="#">Xehar</a>
+    </header>
+    <aside>
+        <p><a href="#">Xehar</a></p>
+        <nav id="sidenav">
+            <input type="text" name="search" class="sidenav"/>
+            <ul>
+                <li><a href="dashboard.html">Home</a></li>
+                <li><a href="dashboard.html">Products</a></li>
+                <li><a href="dashboard.html">Sales Channel</a></li>
+                <li><a href="dashboard.html">Vendors</a></li>
+                <li><a href="dashboard.html">Customer</a></li>
+                <li><a href="dashboard.html">Order</a></li>
+                <li><a href="dashboard.html">Inventory</a></li>
+                <li><a href="dashboard.html">Users</a></li>
+            </ul>
+            
+        </nav>
+    </aside>
+ <div style="margin-left:25%">
+ <div class="w3-container">
+<div id="piechart" style="width: 900px; height: 500px;"></div>
+</div>   
+</div>
+    <asp:ContentPlaceHolder ID="Body" runat="server"></asp:ContentPlaceHolder>
+    <footer></footer>
+    </form>
+</body>
+</html>

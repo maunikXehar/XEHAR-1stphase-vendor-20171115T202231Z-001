@@ -1,0 +1,37 @@
+﻿.pad10{
+    padding:20px !important;
+}
+.fs-24{
+    font-size:24px !important;
+}
+
+.dollar {
+  content: "\0024";
+}
+
+.center{
+width: 150px;
+  margin: 40px auto;
+  
+}
+
+.button {
+  margin: 0 0 0 5px;
+  text-indent: -9999px;
+  cursor: pointer;
+  width: 29px;
+  height: 29px;
+  float: left;
+  text-align: center;
+  background: url(../../images/buttons.png) no-repeat;
+}
+.dec {
+  background-position: 0 -29px;
+}
+
+.buttons {
+  padding: 20px 0 0 140px;
+}
+.f6{
+    width:6% !important;
+}

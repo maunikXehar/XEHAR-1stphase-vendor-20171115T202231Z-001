@@ -1,0 +1,113 @@
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\ApplicationInsights.config
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\csc.exe
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\vbc.exe
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll.config
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\XEHAR2017.pdb
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.Web.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\MySql.Data.DLL
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.Web.xml
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.dll
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.pdb
+C:\Users\User\Documents\GitHub\XeharGIT\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.csprojResolveAssemblyReference.cache
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.pdb
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\ApplicationInsights.config
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\csc.exe
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\vbc.exe
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll.config
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\bin\XEHAR2017.pdb
+E:\Projects\XeharGIT\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.csprojResolveAssemblyReference.cache
+E:\XEHAR2017\XEHAR2017\bin\ApplicationInsights.config
+E:\XEHAR2017\XEHAR2017\bin\roslyn\csc.exe
+E:\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\XEHAR2017\XEHAR2017\bin\roslyn\System.Collections.Immutable.dll
+E:\XEHAR2017\XEHAR2017\bin\roslyn\System.Reflection.Metadata.dll
+E:\XEHAR2017\XEHAR2017\bin\roslyn\vbc.exe
+E:\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe
+E:\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe.config
+E:\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll.config
+E:\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll
+E:\XEHAR2017\XEHAR2017\bin\XEHAR2017.pdb
+E:\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.dll
+E:\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.pdb
+E:\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.csprojResolveAssemblyReference.cache
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\ApplicationInsights.config
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\csc.exe
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\vbc.exe
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll.config
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\bin\XEHAR2017.pdb
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.csprojResolveAssemblyReference.cache
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR 1stphase vendor\proj\proj\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.pdb
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\ApplicationInsights.config
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\csc.exe
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\vbc.exe
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll.config
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\XEHAR2017.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\bin\XEHAR2017.pdb
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.csprojResolveAssemblyReference.cache
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.dll
+C:\Users\mnk\Desktop\XEHAR 1stphase vendor-20171115T202231Z-001\XEHAR2017\XEHAR2017\obj\Debug\XEHAR2017.pdb

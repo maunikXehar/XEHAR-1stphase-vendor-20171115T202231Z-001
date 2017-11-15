@@ -1,0 +1,52 @@
+﻿header
+{
+    height:50px;
+    background-color: #3D8DBC;
+    position: relative;
+}
+
+body
+{
+    margin: 0;
+}
+
+h1
+{
+    margin-left: 230px;
+}
+header a
+{
+    margin: 20px 0px;
+}
+nav
+{
+    
+}
+ul
+{
+    list-style: none;
+    margin-left: 0;
+}
+
+li 
+{
+    position: relative;
+    margin: 0;
+    padding: 20px 0;
+}
+
+aside
+{
+    top: 0;
+    left:0;
+    padding-top: 50px;
+    min-height: 100%;
+    width: 230px;
+    background-color:#222d32;
+    position: absolute;
+}
+
+.push
+{
+    margin-left:10px;
+}
